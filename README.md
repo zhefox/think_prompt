@@ -1,8 +1,6 @@
 # think_prompt
 Let more models support inference and support the think tag.
 
-by the [Thinking-Claude](https://github.com/richards199999/Thinking-Claude/tree/main) project modified and optimized
-
 
 deepseek-v3:
 ![QQ_1738340799146](https://github.com/user-attachments/assets/7efbe043-bf37-4714-8449-c19ee985ade0)
